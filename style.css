@@ -7,3 +7,22 @@
 #img-div {
     text-align: center;
 }
+
+#img-caption {
+    text-size-adjust: bold;
+}
+
+#tribute-info {
+    text-align: center;
+}
+
+a {
+    font-size: 18px;
+    color: red;
+    text-align: center;
+    justify-content: center;
+}
+
+a:hover {
+    background-color: blue;
+}
